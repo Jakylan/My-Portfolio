@@ -1,0 +1,19 @@
+.links {
+    float: right;
+    position: relative;
+    left: 21rem;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.li-link {
+    float: left;
+    color: white;
+    text-decoration: none;    
+    display: inline-block;
+    margin-left: 1rem;
+    
+}
+
+.navbar-brand {
+    color: white;
+}
